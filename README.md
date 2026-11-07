@@ -27,7 +27,7 @@
 - 局限：目前仅支持纯文本交互，未来计划引入语音交互，探索在“可穿戴设备”场景下的应用（呼应岗位JD）。
 
 ## 🚀 在线体验 (Live Demo)
-- [点击这里体验我的智能财报助手](填入你等下生成的 Streamlit 网址)
+https://fintech-agent-2wn8gfjryjbwaywkzsdvfi.streamlit.app/
 
 ---
 *Created by 俞沁 | 深圳大学 金融科技*
