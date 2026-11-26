@@ -1,3 +1,7 @@
+🚀 点击查看本项目的完整产品 PRD、业务流程图与交互原型（飞书文档）
+https://my.feishu.cn/wiki/HsrkwvmgUiQ491kobwic25Pxn6g?from=from_copylink
+(注：下方为本项目底层 RAG 工作流配置文件与 Badcase 测试报告)
+
 # 📈 FinTech-Agent: 面向个人投资者的智能财报分析助手
 
 ## 💡 项目背景与痛点
